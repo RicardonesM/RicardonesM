@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RicardonesM
-- 👀 I’m interested in app development, more specifically in native iOS and Android app development 
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on my own platforms and apps for now
+- 👀 I’m interested in app development, more specifically in native web, iOS and Android app development 
+- 🌱 I’m currently learning React and SwiftUI
 - 📫 You can reach me by email or on LinkedIn
 
 <!---
